@@ -37,7 +37,7 @@ assets:
   - {seq: 1, filename: KR6c0020_001.yaml, hash: 'sha256:9a4f0801ecee7f9440211c559780a6a8bcc99c1f39d5bf74fa9ab55b55bc4de0'}
   - {seq: 2, filename: KR6c0020_002.yaml, hash: 'sha256:176d44a8c95de2dc03df8066ba3ed5e9c7596f17020248736970b681d1339145'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0020_000.markers.yaml, hash: 'sha256:cff8a59190a6a53b4efdbd3bfa929ac2d2eaedeff41cb8390a8540a3b814c56b'}
+  - {seq: 0, role: markers, filename: assets/KR6c0020_000.markers.yaml, hash: 'sha256:abbb1e91bb617d10ff70384b329ea1c6e943d741d677f94d6ab560ceeb9c7fdf'}
   - {seq: 1, role: markers, filename: assets/KR6c0020_001.markers.yaml, hash: 'sha256:4cfc7c915bad073c269049cee88b97ccb70ca395c61551764d0a7d517265c8a3'}
   - {seq: 2, role: markers, filename: assets/KR6c0020_002.markers.yaml, hash: 'sha256:fbc0c2a486f8d8b46fb4cff3f4bb0321a6dfa9da7cdbd1b129b7496e1308b884'}
 table_of_contents:
@@ -65,7 +65,7 @@ table_of_contents:
     經卷下'
   type: juan
   level: 1
-hash: sha256:d9558432b3a32da73421fa5efbb494269b56feecb2aa41b02c2302244ed7d298
+hash: sha256:591baff465055649fe8a12d35f300478df572ab5da9f541677c3601b47ab0a53
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
